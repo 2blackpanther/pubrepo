@@ -1,6 +1,6 @@
 
 
-Using a react template for Frankie's Bakery 
+Using a react template for Frankie's Bakery
 
 
 ---NOTE:
@@ -14,3 +14,5 @@ From Author template
 https://react-landing-page-template-93ne.vercel.app/#contact
 
 https://github.com/issaafalkattan/React-Landing-Page-Template/tree/master
+
+testing
